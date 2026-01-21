@@ -24,3 +24,10 @@ Nuestras soluciones se basan mayormente en herramientas de productividad para la
 
 #### Control de proyectos
 <img src="https://img.shields.io/badge/Atlassian-blue?logo=atlassian" alt="" />
+
+---
+
+#### Contáctanos
+[<img src="https://img.shields.io/badge/Nuestro_sitio_web-white?logo=googleearth" alt="" />](https://www.lncproducciones.com/)
+[<img src="https://img.shields.io/badge/Correo_electrónico-white?logo=protonmail" alt="" />](mailto:info@lncproducciones.com)
+[<img src="https://img.shields.io/badge/WhatsApp-white?logo=whatsapp" alt="" />](https://wa.me/573158395830)
