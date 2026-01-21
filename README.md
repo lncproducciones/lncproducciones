@@ -1,5 +1,4 @@
-<center><img src="https://www.lncproducciones.com/img/logo-web.png" alt="LNC Producciones" /></center>
-<img src="https://account.lncproducciones.com/lyf/style/images/art/slider-bg19.jpg" alt="" style="width: 100% !important;" />
+<img src="https://www.lncproducciones.com/img/hdr_lnc_github.png" alt="" style="width: 100% !important;" />
 <!--
 **lncproducciones/lncproducciones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
