@@ -20,7 +20,7 @@ Nuestras soluciones se basan mayormente en herramientas de productividad para la
 <img src="https://img.shields.io/badge/Cloud-Clouding.io-73E7E7" alt="" />
 
 #### Versionamiento
-<img src="https://img.shields.io/badge/Github-black?logo=github" alt="" /> <img src="https://img.shields.io/badge/Azure_DevOps-blue?logo=gitforwindows" alt="" />
+<img src="https://img.shields.io/badge/Github-gray?logo=github" alt="" /> <img src="https://img.shields.io/badge/Azure_DevOps-blue?logo=gitforwindows" alt="" />
 
 #### Control de proyectos
 <img src="https://img.shields.io/badge/Atlassian-blue?logo=atlassian" alt="" />
